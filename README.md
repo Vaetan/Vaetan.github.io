@@ -2,6 +2,10 @@
 
 Here you'll find various CTF exercises and solved puzzles for documentation purposes.
 
+| ![](https://github.com/Vaetan.png?size=150)     |
+|:-----------------------------------------------:|
+| **Vae** (Ethan Keilar)                          |
+
 ### Links
 
 LinkedIn:
